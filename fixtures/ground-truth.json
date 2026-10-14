@@ -19,5 +19,12 @@
     "amount": "23.50",
     "currency": "CAD",
     "category": "Transport"
+  },
+  "receipt-office-supplies.txt": {
+    "vendor": "APEX OFFICE DEPOT",
+    "date": "2026-10-13",
+    "amount": "42.50",
+    "currency": "USD",
+    "category": "Office Supplies"
   }
 }
