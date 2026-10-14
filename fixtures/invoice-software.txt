@@ -1,0 +1,9 @@
+INVOICE No. 1042
+From: Inkwell Design Tools
+Date: 2026-10-08
+Bill to: Freelance Studio
+
+Item: Pro plan, monthly subscription — 29.00
+
+Amount due: $29.00 USD
+Status: Paid

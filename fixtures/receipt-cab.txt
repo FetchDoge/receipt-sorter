@@ -1,0 +1,8 @@
+METRO CAB
+Trip receipt
+Date: Oct 12, 2026
+Pickup: Downtown
+Dropoff: Airport Terminal 1
+Fare: CAD 23.50
+Total paid: CAD 23.50
+Card payment

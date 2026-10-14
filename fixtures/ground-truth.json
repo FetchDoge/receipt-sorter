@@ -1,0 +1,23 @@
+{
+  "receipt-grocery.png": {
+    "vendor": "Green Valley Grocery",
+    "date": "2026-10-11",
+    "amount": "47.83",
+    "currency": "USD",
+    "category": "Groceries"
+  },
+  "invoice-software.txt": {
+    "vendor": "Inkwell Design Tools",
+    "date": "2026-10-08",
+    "amount": "29.00",
+    "currency": "USD",
+    "category": "Software"
+  },
+  "receipt-cab.txt": {
+    "vendor": "Metro Cab",
+    "date": "2026-10-12",
+    "amount": "23.50",
+    "currency": "CAD",
+    "category": "Transport"
+  }
+}

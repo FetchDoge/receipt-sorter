@@ -1,0 +1,4 @@
+date,vendor,amount,currency,category,source_file,model,extracted_at,status,notes
+2026-10-08,Inkwell Design Tools,29.00,USD,Software,invoice-software.txt,gemma3:4b,2026-10-13T08:29:58+00:00,ok,
+2026-10-11,GREEN VALLEY GROCERY,47.83,USD,Groceries,receipt-grocery.png,gemma3:4b,2026-10-13T08:32:23+00:00,ok,
+2026-10-12,METRO CAB,23.50,CAD,Transport,receipt-cab.txt,gemma3:4b,2026-10-13T08:30:40+00:00,ok,
