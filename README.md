@@ -35,7 +35,7 @@ Receipts are financial documents. They show who was paid, how much, and when. Cl
 
 ## Status
 
-Built and fixture-tested. Not yet released publicly; this package is staged for the maintainer's release decision.
+Released 2026-10-13. Built and fixture-tested (15 of 15 fields across 3 sample fixtures; see `demo/RESULTS.md`).
 
 ## License
 
