@@ -40,3 +40,16 @@ Released 2026-10-13. Built and fixture-tested (15 of 15 fields across 3 sample f
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+## Verify it yourself
+
+```bash
+python -m py_compile receiptsort.py
+```
+
+The same command this repository's CI runs on every push. If it does not pass on a clean clone,
+the CI badge is wrong and so is this README — please open an issue.
+
+Every claim in this README is meant to be checkable by someone who does not trust it yet.
