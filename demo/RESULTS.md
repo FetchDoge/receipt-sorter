@@ -8,7 +8,7 @@
 ## Environment
 
 - VM: 2 CPUs, ~7 GB RAM, ~7.4 GB free disk, Python 3.12
-- Ollama 0.40.3, installed locally under `~/workspace/tools/ollama/`, server on 127.0.0.1:11434
+- Ollama 0.40.3, installed locally, server on 127.0.0.1:11434
 - Models: gemma3:1b (806 MB) and gemma3:4b (3.35 GB), both Gemma, both run fully locally
 
 ## Two infrastructure findings (both handled, both verified)
