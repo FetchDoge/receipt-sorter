@@ -37,6 +37,8 @@ Receipts are financial documents. They show who was paid, how much, and when. Cl
 
 Released 2026-10-13. Built and fixture-tested (15 of 15 fields across 3 sample fixtures; see `demo/RESULTS.md`).
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT — see `LICENSE`.
