@@ -41,7 +41,7 @@ Built by Marcus Richards, directing AI coding agents.
 
 ## License
 
-MIT — see `LICENSE`.
+MIT. Copyright (c) 2026 Marcus Richards. See [LICENSE](LICENSE).
 
 ---
 
